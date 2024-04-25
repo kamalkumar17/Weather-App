@@ -8,6 +8,10 @@ In this article, we developed an Interactive Weather Application using ReactJS F
 .ReactJS
 .Function Components in React
 
+Project Structure
+![Screenshot 2024-04-25 192400](https://github.com/kamalkumar17/Weather-App/assets/160104271/f827d588-2b9a-4dec-b91a-3dfdfca4d616)
+
+
 .JSX File
 import React from 'react';
 import { useState } from "react";
